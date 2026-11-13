@@ -1,7 +1,7 @@
  Hi there, I'm Faheem Mushtaq 👋
 **Founder & Lead Software Architect at Fahim Tech Studio**
 
-I architect scalable enterprise solutions, local-first mobile applications, and high-performance backend systems—bridging advanced software engineering with resilient self-hosted infrastructure.
+I architect scalable enterprise solutions, local-first mobile applications, and high-performance backend systems bridging advanced software engineering with resilient self-hosted infrastructure.
 
 
  Core Focus Areas
