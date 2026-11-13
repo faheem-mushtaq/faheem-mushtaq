@@ -4,7 +4,7 @@
 I architect scalable enterprise solutions, local-first mobile applications, and high-performance backend systems bridging advanced software engineering with resilient self-hosted infrastructure.
 
 
- ###Core Focus Areas
+ ### Core Focus Areas
 - **Enterprise Architecture:** Designing robust ERP systems, POS solutions, and automated business workflows.
 - **Mobile Engineering:** Building cross-platform, offline-first mobile applications using local SQLite persistence.
 - **Backend & APIs:** Developing high-speed microservices and RESTful services in Golang.
